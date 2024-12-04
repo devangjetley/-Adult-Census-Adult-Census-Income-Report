@@ -20,7 +20,7 @@ Q1) What are the demographic characteristics of the adult population?
 Q2) How does income vary by age and occupation?
 Q3) What trends can be observed in education and marital status among adults?
 
-Tools Used:
+Tool Used:
 •	Microsoft Power BI
 
 Dataset Information:
